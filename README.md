@@ -21,3 +21,6 @@ The script begins by importing the necessary libraries and defining the summariz
 
 
 OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/c05080ce-7347-46f7-9a11-497636217961)
